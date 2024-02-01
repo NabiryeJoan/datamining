@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1tnyyrjF3rqXP_mRi371XsoNI8tQ8hUiA
 """
 
-wwwwwwwwwwwwwwwwwwwwwwwww
+wwwwwwwwwwwwwwwwwwwwwwww
 
 import pandas as pd
 import numpy as np
