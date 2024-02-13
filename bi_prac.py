@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1tnyyrjF3rqXP_mRi371XsoNI8tQ8hUiA
 """
 
-wwwwwwwwwwwww
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
